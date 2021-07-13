@@ -28,5 +28,7 @@ python manage.py startapp polls
 2.Add that view to urls.py(create it as it wont be present) using path function   
 3.Add this url into mysite urls.py file using include method   
   
+
+  
   
 
