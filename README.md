@@ -5,7 +5,7 @@ This is a sample tutorial provided in django documentation.
 2.Created Databases in SQLlite and performed few CRUD operations  
 (created,updated,read,deleted)  
 3.Created views and understood that django works on MVT(not MVC)  
-
+Lets see if its can be edited!! 
   
   
 
