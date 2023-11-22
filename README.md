@@ -7,5 +7,5 @@ This is a sample tutorial provided in django documentation.
 3.Created views and understood that django works on MVT(not MVC)  
 
   
-  
+  asfada
 
